@@ -4,6 +4,7 @@ plugins:
 - id: async-http-client
 - id: authentication-tokens
 - id: aws-credentials
+- id: aws-global-configuration
 - id: aws-java-sdk-ec2
 - id: aws-java-sdk-minimal
 - id: blueocean-commons
