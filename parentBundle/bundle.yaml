@@ -1,0 +1,10 @@
+apiVersion: '1'
+id: 'bundle2'
+description: 'bundle2'
+availabilityPattern: '.*'
+version: '3'
+
+# jcasc:
+#   - 'jenkins.yaml'
+plugins:
+  - 'plugins.yaml'
